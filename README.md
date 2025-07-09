@@ -14,5 +14,30 @@ This app tracks COVID-19 stats globally and per country using Flutter and REST A
 
 📱 Fully responsive layout
 
-📽️ Screenshots
-<p align="center"> <img src="images/screenshots/before_search_animation.jpg" alt="Before Search Animation" width="200"/> <img src="images/screenshots/search_feature.jpg" alt="Search Feature" width="200"/> <img src="images/screenshots/countries_list.jpg" alt="Countries List" width="200"/> <img src="images/screenshots/country_data.jpg" alt="Country Data" width="200"/> </p> <p align="center"> <img src="images/screenshots/home_screen.jpg" alt="Home Screen" width="200"/> </p>
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/screenshots/home_screen.jpg" width="200"/>
+      <br/><b>🏠 Home Screen</b>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <img src="images/screenshots/country_data.jpg" width="200"/>
+      <br/><b>📊 Country Data Screen</b>
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td align="center">
+      <img src="images/screenshots/before_search_animation.jpg" width="200"/>
+      <br/><b>✨ Before Search Animation</b>
+    </td>
+    <td align="center">
+      <img src="images/screenshots/countries_list.jpg" width="200"/>
+      <br/><b>🌍 Countries List</b>
+    </td>
+    <td align="center">
+      <img src="images/screenshots/search_feature.jpg" width="200"/>
+      <br/><b>🔍 Search Feature</b>
