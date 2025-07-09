@@ -29,16 +29,15 @@ This app tracks COVID-19 stats globally and per country using Flutter and REST A
     </td>
     <td width="15"></td>
     <td align="center">
-      <b>✨ Before Search Animation</b><br/>
-      <img src="images/screenshots/before_search_animation.jpg" width="200" height="300"/>
+      <b>🌍 Countries List</b><br/>
+      <img src="images/screenshots/countries_list.jpg" width="200" height="300"/>
     </td>
   </tr>
   <tr><td colspan="3"><br/></td></tr>
   <tr>
-    <td width="15"></td>
     <td align="center">
-      <b>🌍 Countries List</b><br/>
-      <img src="images/screenshots/countries_list.jpg" width="200" height="300"/>
+      <b>✨ Before Search Animation</b><br/>
+      <img src="images/screenshots/before_search_animation.jpg" width="200" height="300"/>
     </td>
     <td width="15"></td>
     <td align="center">
