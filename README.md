@@ -1,10 +1,10 @@
 🦠 COVID Data Tracker App
-This app tracks COVID-19 stats globally and per country using Flutter and REST APIs. It includes live statistics, search functionality, country-wise breakdown, and animations for better UX.
+This app tracks COVID-19 stats globally and per country using Flutter and REST APIs. It includes live statistics, search functionality, country-wise breakdown, & animations for better UX.
 
 ✨ Features
 🌍 Global & country-wise COVID-19 data
 
-🔍 Real-time search filter with debounce
+🔍 Real-time search filter with debounce 
 
 🎯 Clean and intuitive UI
 
